@@ -10,7 +10,6 @@ Repository ini merupakan lampiran skripsi yang berisi implementasi model MobileN
 
 - `MobileNetV1/` : Implementasi 6 skenario pengujian menggunakan MobileNetV1
 - `MobileNetV2/` : Implementasi 6 skenario pengujian menggunakan MobileNetV2
-- `results/` : Berisi hasil eksperimen seperti grafik akurasi dan loss
 
 ## Deskripsi Eksperimen
 
