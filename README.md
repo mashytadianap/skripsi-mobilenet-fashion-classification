@@ -14,8 +14,8 @@ Repository ini merupakan lampiran skripsi yang berisi implementasi model MobileN
 ## Deskripsi Eksperimen
 
 Penelitian ini membandingkan performa dua arsitektur deep learning, yaitu:
-	•	MobileNetV1
-	•	MobileNetV2
+- MobileNetV1
+- MobileNetV2
 
 Pengujian dilakukan melalui 12 skenario eksperimen untuk mengevaluasi kinerja model dalam proses klasifikasi pakaian berdasarkan musim.
 
