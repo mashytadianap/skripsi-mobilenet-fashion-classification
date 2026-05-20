@@ -1,7 +1,7 @@
-# Skripsi MobileNet Fashion Classification
+# Perbandingan Kinerja Algoritma Convolutional Neural Network (CNN) pada Arsitektur MobileNetV1 dan MobileNetV2 dalam Klasifikasi Pakaian Berdasarkan Musim
 
-## Repository Skripsi
-Link: https://github.com/mashytadianap/skripsi-mobilenet-fashion-classification
+Link Repository:
+https://github.com/mashytadianap/skripsi-mobilenet-fashion-classification
 
 ## Deskripsi
 Repository ini merupakan lampiran skripsi yang berisi implementasi model MobileNetV1 dan MobileNetV2 untuk klasifikasi pakaian berdasarkan musim.
@@ -21,7 +21,5 @@ Dengan total 12 skenario pengujian untuk mengevaluasi performa model dalam klasi
 
 ## Catatan
 
-Repository ini hanya berisi kode implementasi.  
-Hasil eksperimen telah disajikan secara lengkap pada laporan skripsi.
-
-Perlu diperhatikan bahwa hasil dapat berbeda jika kode dijalankan ulang karena adanya proses randomisasi dalam pelatihan model.
+Repository ini difokuskan pada dokumentasi kode implementasi penelitian.
+Hasil eksperimen, analisis, dan pembahasan lengkap disajikan pada laporan skripsi.
