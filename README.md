@@ -1,5 +1,9 @@
 # Skripsi MobileNet Fashion Classification
 
+## Repository Skripsi
+Link: https://github.com/mashytadianap/skripsi-mobilenet-fashion-classification
+
+## Deskripsi
 Repository ini merupakan lampiran skripsi yang berisi implementasi model MobileNetV1 dan MobileNetV2 untuk klasifikasi pakaian berdasarkan musim.
 
 ## Struktur Repository
